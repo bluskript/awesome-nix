@@ -117,6 +117,7 @@
 * [nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 * [nix-index](https://github.com/bennofs/nix-index) - Quickly locate Nix packages with specific files.
 * [nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
+* [nix-inspect](https://github.com/bluskript/nix-inspect) - A ranger-like TUI for inspecting your nixos config and other arbitrary nix expressions.
 * [nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer.
 * [nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
